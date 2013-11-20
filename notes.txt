@@ -1,0 +1,8 @@
+Topsy Search Parameters
+
+from:pattymurray,from:murraycampaign,from:mcconnellpress,from:team_mitch,from:johncornyn,from:teamcornyn,from:senjohnthune,from:senjohnbarrasso,from:royblunt,from:senatorsessions,from:senatorbarb,from:senshelby,from:sentedcruz,from:tedcruz,from:speakerboehner,from:johnboehner,from:gopleader,from:ericcantor,from:gopwhip,from:kevinomccarthy,from:cathymcmorris,from:replankford,from:nancypelosi,from:whiphoyer,from:clyburn,from:repbecerra,from:reppaulryan,from:pryan,from:chrisvanhollen,from:rephalrogers,from:nitalowey,
+
+
+Cross domain Chrome:
+* Launch Terminal
+* open -a Google\ Chrome --args --disable-web-security
